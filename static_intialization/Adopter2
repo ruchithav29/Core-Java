@@ -1,0 +1,41 @@
+class Adopter2
+{
+	static	String Brand;
+	static	String Manufacturer;
+	static	String Model;
+	static	String ModelName;
+	static	String ProductDimensions;
+	static	String Itemmodelnumber;
+	static	String CompatibleDevices;
+	static	String SpecialFeatures;
+	static	String Wattag;
+	static	String PowerSource;
+	static	String BatteriesRequired;
+	public static void main(String[] Adopter2)
+	{
+		
+		Brand="DR VAKU";
+		System.out.println("Brand is :" +Adopter2.Brand);
+		Manufacturer="‎Zibbri India Pvt.Ltd";
+		System.out.println("Manufacturer is :" +Manufacturer);
+		Model="‎VK-0002-20W";
+		System.out.println("Model is :" +Model);
+		ModelName="‎Aiges";
+		System.out.println("ModelName is :" +ModelName);
+		ProductDimensions="5 x 4 x 1.5 cm";
+		System.out.println("ProductDimensions:" +ProductDimensions);
+		Itemmodelnumber	="VK-0002-20W";
+		System.out.println("Itemmodelnumberis :" +Itemmodelnumber);
+		CompatibleDevices="Cellular Phones, Smartwatches, Tablets";
+		System.out.println("CompatibleDevices :" +CompatibleDevices);
+		SpecialFeatures="Fast Charging, Lightweight Design, Short Circuit Protection, Travel";
+		System.out.println("SpecialFeatures:" +SpecialFeatures);
+		Wattag="‎20 Watts";
+		System.out.println("Wattag :" +Wattag);
+		PowerSource	="‎Corded Electric";
+		System.out.println("PowerSource:" +PowerSource);
+		BatteriesRequired="‎No";
+		System.out.println("BatteriesRequired :" +BatteriesRequired);
+		
+	}
+}

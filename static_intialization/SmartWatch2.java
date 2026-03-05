@@ -1,0 +1,75 @@
+class SmartWatch2
+{
+	static	String brandName="Bolt";
+	static	int price=5698;
+	static	String watchColor="Silver Link";
+	static	String watchHeight="3.66 Millimeters";
+	static	String watchWidth="9 Centimeters";
+	static	String manufacturerAddress="Gurugram, haryana";
+	static	String screenDisplaySize="1.01 Inches";
+	static	String productDimension="5.9x9x0.37cm, 45g";
+	static	String batteries="1 Lithium Ion baatteries";
+	static	String itemModelNumber="wrb-sw-diva-mlt-gld_gld";
+	static	String connectivityType="Bluetooth";
+	static	String wirelessType="Bluetooth";
+	static	String wattage="40 Watts";
+	static	String operatingSystem="Android & Ios";
+	static	String batteryChargingTime="2 Hours";
+	static	String averageBatteryLife="4 Days";
+	static	String batteriesIncluded="yes";
+	static	int lithiumIonCells=1;
+	static	String components="Smartwatch, Magnetic charger, user manual, warranty card";
+	static	String productManufacturer="Nexxbase Marketing Pvt. Ltd";
+	static	String countryOfOrigin="India";
+	static	String itemweight="45g";
+	static	String netQuantity="1 Piece";
+	public static void main(String[] SmartWatch2)
+	{
+		brandName="Bolt";
+		System.out.println("The Smart Watch Brand Name is: "+brandName);
+		price=5698;
+		System.out.println("The Price is: "+price);
+		watchColor="Silver Link";
+		System.out.println("The Watch Color is: "+watchColor);
+		watchHeight="3.66 Millimeters";
+		System.out.println("The Watch Height is: "+watchHeight);
+		watchWidth="9 Centimeters";
+		System.out.println("The Watch width is: "+watchWidth);
+		manufacturerAddress="Gurugram, haryana";
+		System.out.println("Manufacturer Address: "+manufacturerAddress);
+		screenDisplaySize="1.01 Inches";
+		System.out.println("Standing Screen Display Size: "+screenDisplaySize);
+		productDimension="5.9x9x0.37cm, 45g";
+		System.out.println("Product Dimension: "+productDimension);
+		batteries="1 Lithium Ion baatteries";
+		System.out.println("Batteries: "+batteries);
+		itemModelNumber="wrb-sw-diva-mlt-gld_gld";
+		System.out.println("Item Model Number: "+itemModelNumber);
+		connectivityType="Bluetooth";
+		System.out.println("Smart Watch Connectivity Type: "+connectivityType);
+		wirelessType="Bluetooth";
+		System.out.println("Smart Watch Wireless Type: "+wirelessType);
+		wattage="40 Watts";
+		System.out.println("Wattage: "+wattage);
+		operatingSystem="Android & Ios";
+		System.out.println("Operating System: "+operatingSystem);
+		batteryChargingTime="2 Hours";
+		System.out.println("Battery Charge Time (in hours): "+batteryChargingTime);
+		averageBatteryLife="4 Days";
+		System.out.println("Average Battery Life: "+averageBatteryLife);
+		batteriesIncluded="yes";
+		System.out.println("Batteries Included"+batteriesIncluded);
+		lithiumIonCells=1;
+		System.out.println("Lithium Ion Cells: "+lithiumIonCells);
+		components="Smartwatch, Magnetic charger, user manual, warranty card";
+		System.out.println("Components: "+components);
+		productManufacturer="Nexxbase Marketing Pvt. Ltd";
+		System.out.println("Product Manufacturer"+productManufacturer);
+		countryOfOrigin="India";
+		System.out.println("Country of Origin: "+countryOfOrigin);
+		itemweight="45g";
+		System.out.println("Item Weight: "+itemweight);
+		netQuantity="1 Piece";
+		System.out.println("Net Quantity: "+netQuantity);
+	}
+}
