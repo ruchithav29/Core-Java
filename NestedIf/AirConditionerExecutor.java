@@ -1,0 +1,10 @@
+class AirConditionerExecutor
+{
+    public static void main(String[] args)
+    {
+        AirConditioner.powerOn(true);
+        AirConditioner.increaseTemperature();
+        AirConditioner.increaseTemperature();
+        AirConditioner.decreaseTemperature();
+    }
+}
